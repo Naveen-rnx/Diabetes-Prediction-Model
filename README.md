@@ -48,7 +48,10 @@ This project predicts whether a person has diabetes or not using the **Pima Indi
 
 - 📌 Outcome Distribution Count Plot
 - 📌 Confusion Matrix Heatmap
+- ![Screenshot 2025-05-27 144936](https://github.com/user-attachments/assets/242b2841-e1bd-4bc1-8f0c-f0addd3576ad)
+
 - 📌 Accuracy Percentage Bar Chart
+![Screenshot 2025-05-27 144837](https://github.com/user-attachments/assets/632ca188-0466-4665-b330-a4dacc3eb0f2)
 
 ---
 

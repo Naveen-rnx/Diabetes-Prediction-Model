@@ -72,6 +72,15 @@ This project predicts whether a person has diabetes or not using the **Pima Indi
 4. View predictions, performance metrics, and visualizations.
 
 ---
+## 📦 Requirements
+
+To run this project, you need the following Python libraries installed:
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
 
 ## 📎 Future Improvements
 

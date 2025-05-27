@@ -38,9 +38,9 @@ This project predicts whether a person has diabetes or not using the **Pima Indi
 ## 📊 Sample Output
 
 - **Model Accuracy**: ~75-80%
-- ![Screenshot 2025-05-27 144837](https://github.com/user-attachments/assets/632ca188-0466-4665-b330-a4dacc3eb0f2)
+--- ![Screenshot 2025-05-27 144837](https://github.com/user-attachments/assets/632ca188-0466-4665-b330-a4dacc3eb0f2)
 - **Confusion Matrix**:
-![Screenshot 2025-05-27 144936](https://github.com/user-attachments/assets/242b2841-e1bd-4bc1-8f0c-f0addd3576ad)
+---![Screenshot 2025-05-27 144936](https://github.com/user-attachments/assets/242b2841-e1bd-4bc1-8f0c-f0addd3576ad)
 - **Accuracy Visualization**: Clean bar chart using Matplotlib
 
 ---![Screenshot 2025-05-27 144951](https://github.com/user-attachments/assets/37eb97e2-8ec8-4586-ad22-699bf3ecc83f)
